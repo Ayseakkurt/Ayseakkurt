@@ -85,16 +85,6 @@ I care as much about *why* we're building something as *how*.
 
 ## <img src="./assets/diamond.svg" width="14" /> projects
 
-<div align="center">
-
-<a href="https://github.com/Ayseakkurt/ContactMessage-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayseakkurt&repo=ContactMessage-API&bg_color=0D1117&title_color=BC8CFF&text_color=8B949E&icon_color=BC8CFF&border_color=21262D" />
-</a>
-<a href="https://github.com/Ayseakkurt/EmployeeManagement">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayseakkurt&repo=EmployeeManagement&bg_color=0D1117&title_color=BC8CFF&text_color=8B949E&icon_color=BC8CFF&border_color=21262D" />
-</a>
-
-</div>
 
 | repo | what it does | stack |
 | :--- | :--- | :--- |
