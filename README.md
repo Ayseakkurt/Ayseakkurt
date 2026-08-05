@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- █████╗ ██╗   ██╗███████╗███████╗     █████╗ ██╗  ██╗██╗  ██╗██╗   ██╗██████╗ ████████╗
-██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝    ██╔══██╗██║ ██╔╝██║ ██╔╝██║   ██║██╔══██╗╚══██╔══╝
-███████║ ╚████╔╝ ███████╗█████╗      ███████║█████╔╝ █████╔╝ ██║   ██║██████╔╝   ██║   
-██╔══██║  ╚██╔╝  ╚════██║██╔══╝      ██╔══██║██╔═██╗ ██╔═██╗ ██║   ██║██╔══██╗   ██║   
-██║  ██║   ██║   ███████║███████╗    ██║  ██║██║  ██╗██║  ██╗╚██████╔╝██║  ██║   ██║   
-╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
-```
+<img src="./assets/banner.svg" alt="AYSE AKKURT" width="680" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=BC8CFF&center=true&vCenter=true&width=560&height=40&lines=full+stack+developer+%C3%97+product+management;working+with+3+startups;javascript+%C2%B7+java+%C2%B7+python+%C2%B7+flutter" alt="" />
 
@@ -25,7 +18,7 @@ I care as much about *why* we're building something as *how*.
 
 <br/>
 
-## ◇ stack
+## <img src="./assets/diamond.svg" width="14" /> stack
 
 <table>
 <tr>
@@ -80,7 +73,7 @@ I care as much about *why* we're building something as *how*.
 
 <br/>
 
-## ◇ now
+## <img src="./assets/diamond.svg" width="14" /> now
 
 ```console
 [ building ] products across 3 startups · flutter · supabase · postgresql
@@ -90,7 +83,7 @@ I care as much about *why* we're building something as *how*.
 
 <br/>
 
-## ◇ projects
+## <img src="./assets/diamond.svg" width="14" /> projects
 
 <div align="center">
 
@@ -110,34 +103,13 @@ I care as much about *why* we're building something as *how*.
 
 <br/>
 
-## ◇ metrics
+## <img src="./assets/diamond.svg" width="14" /> connect
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayseakkurt&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=BC8CFF&text_color=8B949E&icon_color=BC8CFF&border_color=21262D" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayseakkurt&layout=compact&langs_count=8&bg_color=0D1117&title_color=BC8CFF&text_color=8B949E&border_color=21262D" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Ayseakkurt&background=0D1117&border=21262D&stroke=21262D&ring=BC8CFF&fire=BC8CFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=BC8CFF&sideLabels=8B949E&dates=8B949E" alt="" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayseakkurt&bg_color=0D1117&color=C9D1D9&line=BC8CFF&point=BC8CFF&area=true&area_color=BC8CFF&title_color=BC8CFF&custom_title=contribution%20activity&hide_border=false" width="96%" alt="" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayseakkurt&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="" />
-
-</div>
-
-<br/>
-
-## ◇ connect
-
-<div align="center">
-
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://github.com/Ayseakkurt"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
+<!-- EDIT: replace YOUR-LINKEDIN with your handle, or delete that badge line. -->
 
 </div>
